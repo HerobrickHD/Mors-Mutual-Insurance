@@ -1,0 +1,36 @@
+emerald_divisor: 100.0
+first_free_enabled: true
+
+material_values:
+  DIAMOND: 500
+  NETHERITE_INGOT: 1500
+  NETHERITE_SWORD: 2500
+  ENCHANTED_GOLDEN_APPLE: 2000
+  SHULKER_BOX: 800
+default_value: 10
+
+# Wahrscheinlichkeit (0.0–1.0), dass der Händler nach späteren Toden etwas sagt
+whisper_chance_after_first: 0.8
+
+# Wahrscheinlichkeit (0.0–1.0), dass ein seltener Spruch gesagt wird
+rare_message_chance: 0.05
+
+respawn_messages:
+  - "&bWanderhändler:&7 Willkommen zurück aus dem Reich der schlechten Entscheidungen."
+  - "&bWanderhändler:&7 Ich hab dir gesagt, der Boden ist Lava."
+  - "&bWanderhändler:&7 Man stirbt nur einmal. Es sei denn, man zahlt gut genug."
+  - "&bWanderhändler:&7 Sterben ist billig. Leben kostet extra."
+  - "&bWanderhändler:&7 Ich bin nicht Gott – aber ich kenn ihn geschäftlich."
+  - "&bWanderhändler:&7 Der Tod war tragisch. Mein Umsatz weniger."
+  - "&8(&oTipp: Rechtsklick auf den fahrenden Händler – &3Mors Mutual Insurance&8)"
+
+rare_messages:
+  - "&bWanderhändler:&7 Ich hab schon bessere Spieler sterben sehen."
+  - "&bWanderhändler:&7 Das war kein Lag. Das war Schicksal."
+  - "&bWanderhändler:&7 Ich hab’s gesehen. Es war... naja... peinlich."
+  - "&bWanderhändler:&7 Wenn du das hier liest, bist du schon zu spät."
+  - "&bWanderhändler:&7 Mors Mutual dankt für deine kontinuierliche Sterbetreue."
+  - "&bWanderhändler:&7 Ich hab deine Items gesehen… und geweint. Vor Lachen."
+  - "&bWanderhändler:&7 *Flüstert:* Ich kann dich wiederbeleben... für den richtigen Preis."
+  - "&bWanderhändler:&7 Es war kein Unfall. Es war Content."
+  - "&8(&oSeltene Nachricht! Nur 5 % Chance.&8)"

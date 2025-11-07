@@ -1,0 +1,17 @@
+name: MorsMutualInsurance
+main: de.herobrickhd.deathbuyback.DeathBuybackPlugin
+version: 1.0.0
+api-version: 1.21
+author: HerobrickHD
+description: Ein Händler-Plugin, das verlorene Inventare nach dem Tod rückkaufen lässt.
+
+commands:
+  mmi:
+    description: Adminbefehle für MMI
+    usage: /mmi help
+    permission: mmi.admin
+
+permissions:
+  mmi.admin:
+    description: Erlaubt alle MMI-Befehle
+    default: op
